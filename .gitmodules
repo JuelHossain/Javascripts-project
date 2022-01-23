@@ -1,9 +1,9 @@
 [submodule "calculator"]
 	path = calculator
-	url = ./calculator
+	url = https://github.com/JuelHossain/Calculator
 [submodule "quote-genarator"]
 	path = quote-genarator
-	url = ./quote-genarator
+	url = https://github.com/JuelHossain/Quote-Genarator
 [submodule "tip-genarator"]
 	path = tip-genarator
-	url = ./tip-genarator
+	url = https://github.com/JuelHossain/Tip-Genarator
