@@ -1,0 +1,9 @@
+[submodule "calculator"]
+	path = calculator
+	url = ./calculator
+[submodule "quote-genarator"]
+	path = quote-genarator
+	url = ./quote-genarator
+[submodule "tip-genarator"]
+	path = tip-genarator
+	url = ./tip-genarator
